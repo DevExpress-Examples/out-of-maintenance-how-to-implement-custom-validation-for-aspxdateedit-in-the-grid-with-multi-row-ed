@@ -5,6 +5,9 @@
 * [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/WebSite/Default.aspx.vb))
 <!-- default file list end -->
 # How to implement custom validation for ASPxDateEdit in the grid with multi-row editing
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e4591/)**
+<!-- run online end -->
 
 
 <p>This example illustrates how to implement a custom client-side and server-side validation in the ASPxGridView with multi-row editing. This functionality allows you to check the difference between dates in the HireDate and BirthDate columns.</p><p>If the variation between these columns is less than 18, inputted data is invalid and data update is not allowed. <br />
